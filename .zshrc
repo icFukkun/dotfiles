@@ -55,6 +55,7 @@ alias ll="ls -l"
 alias du="du -h"
 alias df="df -h"
 alias shutdown="shutdown -h now"
+alias packettracer="/opt/pt/bin/PacketTracer7"
 
 # 補完候補を十字キーで選択
 zstyle ':completion:*:default' menu select=1
