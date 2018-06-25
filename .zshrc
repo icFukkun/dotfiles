@@ -2,6 +2,8 @@
 export http_proxy="http://cproxy.okinawa-ct.ac.jp:8080"
 export https_proxy="$http_proxy"
 
+source /opt/Xilinx/Vivado/2018.2/settings64.sh
+
 autoload -U compinit
 compinit
 
